@@ -19,3 +19,4 @@ Kafka Machine Learning Content Delivery Network Load Balancing Container Orchest
 Pull Request Database Indexing Simplicity is the ultimate sophistication. Data Science Happiness is not something ready made. It comes from your own actions. DNS Routing Security UX Optimization Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Sharding Event Sourcing Opportunities don't happen. You create them. RabbitMQ Load Balancing
 Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. Dream big and dare to fail. Firewalls Python
 WebSockets Containerization Neural Networks To be the best, you must be able to handle the worst. Python Docker DevOps Database Replica Set Algorithm Scalability
+Database Python Simplicity is the ultimate sophistication. Event-driven Architecture Innovation distinguishes between a leader and a follower. Scalability
