@@ -14,3 +14,4 @@ Act as if what you do makes a difference. It does. Code Review Success usually c
 A/B Testing Testing DevOps Database Indexing Act as if what you do makes a difference. It does. Optimization Neural Networks OAuth
 Performance Content Delivery Network NLP Don't be afraid to give up the good to go for the great. React Blockchain Parallel Processing Automation Cache Invalidation Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise.
 Data Science If you can dream it, you can do it. Python OAuth Stay hungry, stay foolish. Act as if what you do makes a difference. It does. Sharding Logging Event-driven Architecture Predictive Analytics Kafka API JavaScript Algorithm
+Deployment Firewalls Latency Optimization Artificial Intelligence Load Testing Event Sourcing Zero Downtime Deployment Predictive Analytics Version Control NLP
