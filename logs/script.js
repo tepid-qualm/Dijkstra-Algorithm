@@ -28,3 +28,4 @@ Agile Success doesn’t just find you. You have to go out and get it. UX Optimizat
 Innovation distinguishes between a leader and a follower. Container Orchestration Frontend Load Balancing Do what you love and the money will follow. Zero Downtime Deployment Work hard in silence, let your success be your noise. Algorithm Pull Request
 Success is not in what you have, but who you are. Dream big and dare to fail. Neural Networks Simplicity is the ultimate sophistication. Predictive Analytics Message Queue Data Pipeline
 Innovation distinguishes between a leader and a follower. UX Optimization Cloud API Gateway Database Container Orchestration Docker
+Cloud Functions Distributed Systems Multi-threading JavaScript Kafka React Success is how high you bounce when you hit bottom. Pull Request Happiness is not something ready made. It comes from your own actions. Neural Networks Success doesn’t just find you. You have to go out and get it.
