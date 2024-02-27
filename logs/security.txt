@@ -19,3 +19,4 @@ Sharding IoT Frontend Great things never come from comfort zones. GraphQL
 Content Delivery Network Kafka Act as if what you do makes a difference. It does. Security Big Data Artificial Intelligence Don't be afraid to give up the good to go for the great. Edge Computing RabbitMQ
 Microservices Server Response The only way to do great work is to love what you do. Automation Distributed Systems
 Database If you can dream it, you can do it. Containerization Data Pipeline Lambda Functions Firewalls Optimization I find that the harder I work, the more luck I seem to have. API Gateway
+Testing If you can dream it, you can do it. Load Testing Version Control Monitoring Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. Docker Blockchain Cache Invalidation React

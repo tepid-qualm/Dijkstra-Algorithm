@@ -33,3 +33,4 @@ Database Indexing Edge Computing Kafka Firewalls Zero Downtime Deployment JavaSc
 The only way to do great work is to love what you do. DevOps Don't be afraid to give up the good to go for the great. Scalability Edge Computing Docker Version Control Firewalls
 Opportunities don't happen. You create them. Innovation distinguishes between a leader and a follower. WebSockets Scalability Docker Quantum Computing Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Cache Invalidation Pull Request Happiness is not something ready made. It comes from your own actions. Lambda Functions
 Serverless JWT Code Review Algorithm Zero Downtime Deployment Lambda Functions Multi-threading Pull Request Logging Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. DevOps
+Virtual Machines Opportunities don't happen. You create them. Agile Great things never come from comfort zones. Event Sourcing
