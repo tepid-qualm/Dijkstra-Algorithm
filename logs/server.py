@@ -30,3 +30,4 @@ Innovation distinguishes between a leader and a follower. Great things never com
 Stay hungry, stay foolish. Quantum Computing Kubernetes Replica Set Happiness is not something ready made. It comes from your own actions. DNS Routing Container Orchestration CI/CD Kafka Parallel Processing
 Cloud Functions Difficult roads often lead to beautiful destinations. Parallel Processing Latency Optimization Lambda Functions Cloud Replica Set Performance Kafka Neural Networks
 Lambda Functions Firewalls Pull Request Optimization Serverless Message Queue DevOps Code Review
+Kafka Success doesn’t just find you. You have to go out and get it. Serverless Pull Request UX Optimization Blockchain Work hard in silence, let your success be your noise. DNS Routing
