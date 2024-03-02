@@ -23,3 +23,4 @@ JavaScript Database Performance Success usually comes to those who are too busy 
 Container Orchestration Big Data Cloud Code Review Act as if what you do makes a difference. It does. Data Science Event-driven Architecture Cache Invalidation API Message Queue Kubernetes JavaScript JWT Data Pipeline
 CI/CD Scalability Stay hungry, stay foolish. Distributed Systems Do what you love and the money will follow. Cache Invalidation Zero Downtime Deployment Work hard in silence, let your success be your noise.
 Predictive Analytics Container Orchestration The only way to do great work is to love what you do. Microservices Logging Parallel Processing Testing Python JWT Opportunities don't happen. You create them. Artificial Intelligence Load Testing
+Pull Request Multi-threading Quantum Computing Blockchain A/B Testing Monitoring
