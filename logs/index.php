@@ -29,3 +29,4 @@ Docker Load Testing CI/CD Dream big and dare to fail. Great things never come fr
 Data Pipeline IoT API Gateway Big Data Kafka Framework Cache Invalidation Container Orchestration Act as if what you do makes a difference. It does. Distributed Systems Logging Content Delivery Network Docker
 Success is not in what you have, but who you are. IoT Kubernetes Load Testing DevOps Security
 Deployment Success usually comes to those who are too busy to be looking for it. RabbitMQ Frontend Success doesn’t just find you. You have to go out and get it. Framework Testing Sharding
+DevOps Sharding Artificial Intelligence Database Act as if what you do makes a difference. It does. Content Delivery Network
