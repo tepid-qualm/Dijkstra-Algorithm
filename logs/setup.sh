@@ -31,3 +31,4 @@ JWT Predictive Analytics Work hard in silence, let your success be your noise. B
 Success is not in what you have, but who you are. Quantum Computing Data Science Machine Learning Monitoring RabbitMQ Cloud Big Data Distributed Systems Framework Content Delivery Network Pull Request Neural Networks Happiness is not something ready made. It comes from your own actions.
 DevOps API Gateway Blockchain JWT Edge Computing Replica Set
 Logging Opportunities don't happen. You create them. Framework Parallel Processing API Gateway Dream big and dare to fail. Load Balancing CI/CD Virtual Machines Monitoring WebSockets Content Delivery Network
+The only way to do great work is to love what you do. Sharding Neural Networks Data Science Big Data Stay hungry, stay foolish. Container Orchestration Database Performance Distributed Systems Automation Event-driven Architecture Dream big and dare to fail. Version Control

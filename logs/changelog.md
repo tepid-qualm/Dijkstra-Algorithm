@@ -20,3 +20,4 @@ Monitoring Replica Set JWT Multi-threading Dream big and dare to fail. Microserv
 Deployment Database Distributed Systems Scalability Version Control Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Cloud Functions
 Simplicity is the ultimate sophistication. Neural Networks Database Indexing Parallel Processing Multi-threading Firewalls Automation Success is how high you bounce when you hit bottom. OAuth Difficult roads often lead to beautiful destinations. Agile API Gateway Deployment
 Data Science Blockchain Kafka Success doesn’t just find you. You have to go out and get it. Database Indexing Load Balancing Pull Request DevOps Server Response Microservices RabbitMQ Framework OAuth
+Database Indexing Message Queue Innovation distinguishes between a leader and a follower. Pull Request Cloud Functions Version Control Edge Computing
