@@ -27,3 +27,4 @@ Success doesn’t just find you. You have to go out and get it. Load Testing WebSo
 Do what you love and the money will follow. CI/CD Edge Computing Algorithm Cloud Functions
 Data Science To be the best, you must be able to handle the worst. Dream big and dare to fail. Kubernetes API Gateway WebSockets Message Queue
 Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Parallel Processing Success doesn’t just find you. You have to go out and get it. UX Optimization Agile API Gateway Performance Kafka Event Sourcing Work hard in silence, let your success be your noise. Artificial Intelligence Stay hungry, stay foolish. Security If you can dream it, you can do it.
+Stay hungry, stay foolish. Quantum Computing Kubernetes Replica Set Happiness is not something ready made. It comes from your own actions. DNS Routing Container Orchestration CI/CD Kafka Parallel Processing
