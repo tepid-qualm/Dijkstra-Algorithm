@@ -17,3 +17,4 @@ Testing Event Sourcing Pull Request CI/CD JavaScript Agile OAuth
 A/B Testing The only way to do great work is to love what you do. Framework Artificial Intelligence Virtual Machines
 Edge Computing Code Review Sharding Security Microservices To be the best, you must be able to handle the worst. Database
 CI/CD Success is not in what you have, but who you are. Load Balancing Performance Big Data Monitoring Testing Don't be afraid to give up the good to go for the great. Blockchain Data Pipeline Virtual Machines
+A/B Testing Data Pipeline IoT Python DNS Routing GraphQL Database Container Orchestration
