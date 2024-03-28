@@ -27,3 +27,4 @@ Stay hungry, stay foolish. Scalability Success doesn’t just find you. You have t
 If you can dream it, you can do it. Docker Firewalls Lambda Functions CI/CD Great things never come from comfort zones. Parallel Processing Python Code Review Neural Networks Dream big and dare to fail.
 Docker Load Testing CI/CD Dream big and dare to fail. Great things never come from comfort zones. Distributed Systems Firewalls NLP API Gateway Success doesn’t just find you. You have to go out and get it.
 Data Pipeline IoT API Gateway Big Data Kafka Framework Cache Invalidation Container Orchestration Act as if what you do makes a difference. It does. Distributed Systems Logging Content Delivery Network Docker
+Success is not in what you have, but who you are. IoT Kubernetes Load Testing DevOps Security
