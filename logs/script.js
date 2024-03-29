@@ -23,3 +23,4 @@ Virtual Machines IoT Optimization Event-driven Architecture Neural Networks UX O
 Cloud Functions Predictive Analytics Message Queue Agile Zero Downtime Deployment DNS Routing
 Event-driven Architecture UX Optimization Big Data React Innovation distinguishes between a leader and a follower.
 Machine Learning Parallel Processing Scalability JavaScript Version Control Logging CI/CD To be the best, you must be able to handle the worst. API Lambda Functions JWT Dream big and dare to fail. Kafka
+RabbitMQ Data Science The only way to do great work is to love what you do. Content Delivery Network CI/CD NLP Code Review Parallel Processing
