@@ -22,3 +22,4 @@ Innovation distinguishes between a leader and a follower. Event-driven Architect
 Virtual Machines IoT Optimization Event-driven Architecture Neural Networks UX Optimization Version Control Testing Container Orchestration I find that the harder I work, the more luck I seem to have.
 Cloud Functions Predictive Analytics Message Queue Agile Zero Downtime Deployment DNS Routing
 Event-driven Architecture UX Optimization Big Data React Innovation distinguishes between a leader and a follower.
+Machine Learning Parallel Processing Scalability JavaScript Version Control Logging CI/CD To be the best, you must be able to handle the worst. API Lambda Functions JWT Dream big and dare to fail. Kafka
