@@ -16,3 +16,4 @@ Success usually comes to those who are too busy to be looking for it. Database I
 Do what you love and the money will follow. NLP Python RabbitMQ UX Optimization Monitoring
 Success is how high you bounce when you hit bottom. Deployment Parallel Processing Success doesn’t just find you. You have to go out and get it. Optimization
 Great things never come from comfort zones. Framework Testing Optimization Database Indexing Happiness is not something ready made. It comes from your own actions. Blockchain To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. Pull Request Content Delivery Network Database Replica Set UX Optimization Python
+Monitoring Replica Set JWT Multi-threading Dream big and dare to fail. Microservices Lambda Functions RabbitMQ Act as if what you do makes a difference. It does. Server Response Agile Great things never come from comfort zones. DevOps Neural Networks
