@@ -18,3 +18,4 @@ UX Optimization Frontend To be the best, you must be able to handle the worst. D
 Serverless Virtual Machines Don't be afraid to give up the good to go for the great. Kafka Firewalls JWT Sharding NLP
 Cloud The only way to do great work is to love what you do. Scalability Do what you love and the money will follow. Load Testing Database Success doesn’t just find you. You have to go out and get it. Predictive Analytics Simplicity is the ultimate sophistication. Containerization Automation
 Python Quantum Computing To be the best, you must be able to handle the worst. Content Delivery Network Machine Learning Cloud Parallel Processing
+DevOps The only way to do great work is to love what you do. Testing Do what you love and the money will follow. Code Review Edge Computing Container Orchestration Zero Downtime Deployment Event Sourcing API Gateway Dream big and dare to fail. Frontend Framework
