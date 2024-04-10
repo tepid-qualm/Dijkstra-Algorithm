@@ -25,3 +25,4 @@ Content Delivery Network Algorithm Cloud Success usually comes to those who are 
 Container Orchestration Parallel Processing Big Data Server Response Neural Networks Cloud Predictive Analytics Algorithm JavaScript Framework Kubernetes Artificial Intelligence
 Success doesn’t just find you. You have to go out and get it. Load Testing WebSockets Multi-threading Lambda Functions
 Do what you love and the money will follow. CI/CD Edge Computing Algorithm Cloud Functions
+Data Science To be the best, you must be able to handle the worst. Dream big and dare to fail. Kubernetes API Gateway WebSockets Message Queue
