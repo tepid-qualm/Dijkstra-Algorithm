@@ -17,3 +17,4 @@ Message Queue Database Indexing Cloud Optimization Happiness is not something re
 Success is how high you bounce when you hit bottom. Zero Downtime Deployment JWT Multi-threading Performance API I find that the harder I work, the more luck I seem to have. Server Response Container Orchestration Code Review Dream big and dare to fail. Quantum Computing
 Containerization Success is how high you bounce when you hit bottom. Framework Stay hungry, stay foolish. Python Load Balancing
 NLP Blockchain Pull Request Success is not in what you have, but who you are. WebSockets Dream big and dare to fail. Event Sourcing
+Python To be the best, you must be able to handle the worst. Testing DNS Routing Neural Networks Virtual Machines Lambda Functions GraphQL Cache Invalidation Great things never come from comfort zones. JWT Replica Set Algorithm Zero Downtime Deployment Cloud Functions
