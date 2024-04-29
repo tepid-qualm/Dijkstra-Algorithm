@@ -21,3 +21,4 @@ Opportunities don't happen. You create them. JWT Machine Learning WebSockets Gre
 Innovation distinguishes between a leader and a follower. Event-driven Architecture Algorithm Frontend Simplicity is the ultimate sophistication. UX Optimization Database Indexing Zero Downtime Deployment
 Virtual Machines IoT Optimization Event-driven Architecture Neural Networks UX Optimization Version Control Testing Container Orchestration I find that the harder I work, the more luck I seem to have.
 Cloud Functions Predictive Analytics Message Queue Agile Zero Downtime Deployment DNS Routing
+Event-driven Architecture UX Optimization Big Data React Innovation distinguishes between a leader and a follower.
