@@ -27,3 +27,4 @@ Multi-threading Monitoring Kubernetes Python Blockchain Security Content Deliver
 Event Sourcing IoT Code Review Load Balancing Logging DevOps
 GraphQL Deployment Don't be afraid to give up the good to go for the great. Database Load Balancing UX Optimization Parallel Processing Work hard in silence, let your success be your noise. API Kubernetes Containerization
 Monitoring Agile Docker Quantum Computing Virtual Machines Container Orchestration Code Review Security API Gateway Server Response Multi-threading Load Balancing Cloud Functions
+Database Optimization Algorithm Success usually comes to those who are too busy to be looking for it. Latency Optimization
