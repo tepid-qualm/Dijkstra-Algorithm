@@ -24,3 +24,4 @@ OAuth Success is not in what you have, but who you are. DevOps Scalability Multi
 Content Delivery Network Algorithm Cloud Success usually comes to those who are too busy to be looking for it. Artificial Intelligence Cloud Functions Performance The only way to do great work is to love what you do. Dream big and dare to fail. Code Review Backend
 Container Orchestration Parallel Processing Big Data Server Response Neural Networks Cloud Predictive Analytics Algorithm JavaScript Framework Kubernetes Artificial Intelligence
 Success doesn’t just find you. You have to go out and get it. Load Testing WebSockets Multi-threading Lambda Functions
+Do what you love and the money will follow. CI/CD Edge Computing Algorithm Cloud Functions
