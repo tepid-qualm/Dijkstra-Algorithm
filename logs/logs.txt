@@ -19,3 +19,4 @@ Success is not in what you have, but who you are. Data Pipeline Event Sourcing D
 Dream big and dare to fail. Server Response Version Control React Replica Set RabbitMQ Event-driven Architecture Pull Request
 Backend Container Orchestration Replica Set Cache Invalidation Cloud NLP
 Pull Request Logging Don't be afraid to give up the good to go for the great. Predictive Analytics Performance Edge Computing Cache Invalidation Server Response Multi-threading The only way to do great work is to love what you do. Database Indexing Virtual Machines Latency Optimization UX Optimization
+RabbitMQ Database Indexing Firewalls API Gateway Containerization UX Optimization Parallel Processing Microservices
