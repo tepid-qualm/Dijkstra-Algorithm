@@ -25,3 +25,4 @@ Algorithm Great things never come from comfort zones. DNS Routing Framework Neur
 Logging DNS Routing Parallel Processing Work hard in silence, let your success be your noise. OAuth Machine Learning Edge Computing Algorithm Backend Difficult roads often lead to beautiful destinations. Containerization IoT
 Multi-threading Monitoring Kubernetes Python Blockchain Security Content Delivery Network Database Framework Server Response Stay hungry, stay foolish. Distributed Systems
 Event Sourcing IoT Code Review Load Balancing Logging DevOps
+GraphQL Deployment Don't be afraid to give up the good to go for the great. Database Load Balancing UX Optimization Parallel Processing Work hard in silence, let your success be your noise. API Kubernetes Containerization
