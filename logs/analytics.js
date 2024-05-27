@@ -10,3 +10,4 @@ Simplicity is the ultimate sophistication. Don't be afraid to give up the good t
 API Cloud Frontend Multi-threading Scalability Don't be afraid to give up the good to go for the great. Load Testing Testing Great things never come from comfort zones. Docker Pull Request Parallel Processing Simplicity is the ultimate sophistication. Code Review
 Big Data Security Simplicity is the ultimate sophistication. API Gateway Framework WebSockets UX Optimization Blockchain Microservices Performance
 Performance Happiness is not something ready made. It comes from your own actions. Algorithm Docker Innovation distinguishes between a leader and a follower. Server Response UX Optimization Big Data Version Control Deployment NLP DevOps
+Act as if what you do makes a difference. It does. Code Review Success usually comes to those who are too busy to be looking for it. Distributed Systems Load Testing

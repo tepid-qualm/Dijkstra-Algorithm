@@ -24,3 +24,4 @@ Security Scalability Cache Invalidation API Gateway Parallel Processing Great th
 Algorithm Great things never come from comfort zones. DNS Routing Framework Neural Networks Event Sourcing Opportunities don't happen. You create them. API JavaScript Simplicity is the ultimate sophistication.
 Logging DNS Routing Parallel Processing Work hard in silence, let your success be your noise. OAuth Machine Learning Edge Computing Algorithm Backend Difficult roads often lead to beautiful destinations. Containerization IoT
 Multi-threading Monitoring Kubernetes Python Blockchain Security Content Delivery Network Database Framework Server Response Stay hungry, stay foolish. Distributed Systems
+Event Sourcing IoT Code Review Load Balancing Logging DevOps
