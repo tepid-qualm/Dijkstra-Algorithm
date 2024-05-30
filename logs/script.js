@@ -20,3 +20,4 @@ Success usually comes to those who are too busy to be looking for it. Distribute
 Opportunities don't happen. You create them. JWT Machine Learning WebSockets Great things never come from comfort zones. Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. Predictive Analytics
 Innovation distinguishes between a leader and a follower. Event-driven Architecture Algorithm Frontend Simplicity is the ultimate sophistication. UX Optimization Database Indexing Zero Downtime Deployment
 Virtual Machines IoT Optimization Event-driven Architecture Neural Networks UX Optimization Version Control Testing Container Orchestration I find that the harder I work, the more luck I seem to have.
+Cloud Functions Predictive Analytics Message Queue Agile Zero Downtime Deployment DNS Routing
