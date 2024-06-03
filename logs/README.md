@@ -23,3 +23,4 @@ Performance Serverless Stay hungry, stay foolish. Database Indexing Predictive A
 Security Scalability Cache Invalidation API Gateway Parallel Processing Great things never come from comfort zones. The only way to do great work is to love what you do. Container Orchestration Neural Networks Microservices Deployment
 Algorithm Great things never come from comfort zones. DNS Routing Framework Neural Networks Event Sourcing Opportunities don't happen. You create them. API JavaScript Simplicity is the ultimate sophistication.
 Logging DNS Routing Parallel Processing Work hard in silence, let your success be your noise. OAuth Machine Learning Edge Computing Algorithm Backend Difficult roads often lead to beautiful destinations. Containerization IoT
+Multi-threading Monitoring Kubernetes Python Blockchain Security Content Delivery Network Database Framework Server Response Stay hungry, stay foolish. Distributed Systems

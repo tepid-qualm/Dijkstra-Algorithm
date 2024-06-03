@@ -16,3 +16,4 @@ Serverless DNS Routing Replica Set Automation Monitoring Big Data
 GraphQL Parallel Processing Replica Set Great things never come from comfort zones. Database Indexing Message Queue RabbitMQ Load Testing Docker If you can dream it, you can do it. Cloud Functions Machine Learning Kubernetes OAuth Virtual Machines
 Predictive Analytics Event-driven Architecture Machine Learning Content Delivery Network Virtual Machines Agile Message Queue Microservices I find that the harder I work, the more luck I seem to have. UX Optimization Difficult roads often lead to beautiful destinations. Replica Set
 Success is not in what you have, but who you are. Data Pipeline Event Sourcing Difficult roads often lead to beautiful destinations. Virtual Machines Artificial Intelligence
+Dream big and dare to fail. Server Response Version Control React Replica Set RabbitMQ Event-driven Architecture Pull Request
