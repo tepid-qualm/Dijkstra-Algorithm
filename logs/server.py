@@ -22,3 +22,4 @@ I find that the harder I work, the more luck I seem to have. To be the best, you
 Framework Distributed Systems NLP Predictive Analytics A/B Testing Cloud Functions To be the best, you must be able to handle the worst. Algorithm Quantum Computing Innovation distinguishes between a leader and a follower.
 OAuth Success is not in what you have, but who you are. DevOps Scalability Multi-threading Firewalls NLP JWT API Gateway
 Content Delivery Network Algorithm Cloud Success usually comes to those who are too busy to be looking for it. Artificial Intelligence Cloud Functions Performance The only way to do great work is to love what you do. Dream big and dare to fail. Code Review Backend
+Container Orchestration Parallel Processing Big Data Server Response Neural Networks Cloud Predictive Analytics Algorithm JavaScript Framework Kubernetes Artificial Intelligence
