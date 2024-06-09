@@ -14,3 +14,4 @@ Difficult roads often lead to beautiful destinations. DNS Routing Multi-threadin
 Innovation distinguishes between a leader and a follower. Serverless Version Control Microservices Backend Do what you love and the money will follow. Content Delivery Network Event Sourcing CI/CD API Gateway Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. Agile Frontend
 Success usually comes to those who are too busy to be looking for it. Database Indexing GraphQL Quantum Computing JWT
 Do what you love and the money will follow. NLP Python RabbitMQ UX Optimization Monitoring
+Success is how high you bounce when you hit bottom. Deployment Parallel Processing Success doesn’t just find you. You have to go out and get it. Optimization
