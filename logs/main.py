@@ -15,3 +15,4 @@ Algorithm UX Optimization Work hard in silence, let your success be your noise. 
 Data Pipeline UX Optimization Multi-threading Optimization Data Science Microservices Happiness is not something ready made. It comes from your own actions. Content Delivery Network Serverless Neural Networks NLP Do what you love and the money will follow. Load Balancing If you can dream it, you can do it.
 Pull Request UX Optimization Opportunities don't happen. You create them. Event Sourcing Stay hungry, stay foolish. OAuth Parallel Processing Distributed Systems
 React Success is not in what you have, but who you are. Docker Agile API Gateway API Event-driven Architecture Cloud Dream big and dare to fail.
+Do what you love and the money will follow. Work hard in silence, let your success be your noise. Cache Invalidation Machine Learning Great things never come from comfort zones. Pull Request Kafka Opportunities don't happen. You create them.
