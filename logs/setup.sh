@@ -24,3 +24,4 @@ API Gateway Data Science Framework Content Delivery Network Machine Learning Blo
 Cloud Replica Set Firewalls UX Optimization Deployment Cloud Functions Framework Predictive Analytics
 Data Pipeline React Do what you love and the money will follow. Cloud Kubernetes Big Data Parallel Processing Firewalls Optimization Event Sourcing IoT API Gateway If you can dream it, you can do it. Act as if what you do makes a difference. It does. Great things never come from comfort zones.
 Testing Cloud NLP Algorithm Container Orchestration Do what you love and the money will follow.
+Python A/B Testing Success doesn’t just find you. You have to go out and get it. Testing Algorithm Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. Pull Request Framework Distributed Systems Innovation distinguishes between a leader and a follower.
