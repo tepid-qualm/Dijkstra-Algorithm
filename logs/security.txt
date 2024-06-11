@@ -11,3 +11,4 @@ Pull Request Frontend Act as if what you do makes a difference. It does. Testing
 If you can dream it, you can do it. Logging Latency Optimization API Gateway Testing Kafka Parallel Processing UX Optimization Deployment Kubernetes Virtual Machines
 Lambda Functions JavaScript Artificial Intelligence API CI/CD Success is not in what you have, but who you are.
 Lambda Functions Artificial Intelligence To be the best, you must be able to handle the worst. Message Queue Security
+If you can dream it, you can do it. Data Pipeline API RabbitMQ Pull Request Agile Message Queue Testing
