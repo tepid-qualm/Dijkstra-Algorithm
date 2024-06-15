@@ -23,3 +23,4 @@ NLP Container Orchestration Framework Message Queue Distributed Systems React
 API Gateway Data Science Framework Content Delivery Network Machine Learning Blockchain Frontend Scalability
 Cloud Replica Set Firewalls UX Optimization Deployment Cloud Functions Framework Predictive Analytics
 Data Pipeline React Do what you love and the money will follow. Cloud Kubernetes Big Data Parallel Processing Firewalls Optimization Event Sourcing IoT API Gateway If you can dream it, you can do it. Act as if what you do makes a difference. It does. Great things never come from comfort zones.
+Testing Cloud NLP Algorithm Container Orchestration Do what you love and the money will follow.
