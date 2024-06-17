@@ -17,3 +17,4 @@ Dream big and dare to fail. Container Orchestration Zero Downtime Deployment Edg
 Kubernetes Zero Downtime Deployment Algorithm Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Edge Computing Event Sourcing OAuth Containerization
 Edge Computing Act as if what you do makes a difference. It does. API Gateway CI/CD Load Testing DNS Routing Parallel Processing Opportunities don't happen. You create them. Content Delivery Network OAuth React
 Server Response Happiness is not something ready made. It comes from your own actions. Containerization Multi-threading OAuth Zero Downtime Deployment Replica Set Opportunities don't happen. You create them. DevOps Logging DNS Routing Dream big and dare to fail.
+Microservices Replica Set Database Indexing Serverless Pull Request Framework Parallel Processing If you can dream it, you can do it.
