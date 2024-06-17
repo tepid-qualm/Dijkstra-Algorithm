@@ -20,3 +20,4 @@ Monitoring Data Pipeline JWT Content Delivery Network Event-driven Architecture 
 Great things never come from comfort zones. Testing API Version Control Innovation distinguishes between a leader and a follower. Logging NLP
 I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. The only way to do great work is to love what you do. Container Orchestration Work hard in silence, let your success be your noise. Security Success is not in what you have, but who you are. Kafka Cloud JWT
 Framework Distributed Systems NLP Predictive Analytics A/B Testing Cloud Functions To be the best, you must be able to handle the worst. Algorithm Quantum Computing Innovation distinguishes between a leader and a follower.
+OAuth Success is not in what you have, but who you are. DevOps Scalability Multi-threading Firewalls NLP JWT API Gateway

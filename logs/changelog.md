@@ -13,3 +13,4 @@ JWT Act as if what you do makes a difference. It does. Success is not in what yo
 Difficult roads often lead to beautiful destinations. DNS Routing Multi-threading Testing DevOps I find that the harder I work, the more luck I seem to have. Kafka Cache Invalidation Opportunities don't happen. You create them. Agile UX Optimization
 Innovation distinguishes between a leader and a follower. Serverless Version Control Microservices Backend Do what you love and the money will follow. Content Delivery Network Event Sourcing CI/CD API Gateway Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. Agile Frontend
 Success usually comes to those who are too busy to be looking for it. Database Indexing GraphQL Quantum Computing JWT
+Do what you love and the money will follow. NLP Python RabbitMQ UX Optimization Monitoring
