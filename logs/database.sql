@@ -15,3 +15,4 @@ OAuth Parallel Processing Stay hungry, stay foolish. Artificial Intelligence Blo
 Monitoring Agile Content Delivery Network Edge Computing Serverless
 Dream big and dare to fail. Container Orchestration Zero Downtime Deployment Edge Computing Server Response Security Work hard in silence, let your success be your noise. React Happiness is not something ready made. It comes from your own actions. Logging
 Kubernetes Zero Downtime Deployment Algorithm Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Edge Computing Event Sourcing OAuth Containerization
+Edge Computing Act as if what you do makes a difference. It does. API Gateway CI/CD Load Testing DNS Routing Parallel Processing Opportunities don't happen. You create them. Content Delivery Network OAuth React
