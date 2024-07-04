@@ -15,3 +15,4 @@ Kubernetes Work hard in silence, let your success be your noise. Virtual Machine
 DevOps Distributed Systems Performance Firewalls Server Response Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. The only way to do great work is to love what you do. A/B Testing Data Pipeline Agile Predictive Analytics JWT Monitoring
 Testing Event Sourcing Pull Request CI/CD JavaScript Agile OAuth
 A/B Testing The only way to do great work is to love what you do. Framework Artificial Intelligence Virtual Machines
+Edge Computing Code Review Sharding Security Microservices To be the best, you must be able to handle the worst. Database
