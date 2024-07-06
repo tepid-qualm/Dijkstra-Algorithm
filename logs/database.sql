@@ -14,3 +14,4 @@ Success is not in what you have, but who you are. Lambda Functions Don't be afra
 OAuth Parallel Processing Stay hungry, stay foolish. Artificial Intelligence Blockchain GraphQL Machine Learning Backend
 Monitoring Agile Content Delivery Network Edge Computing Serverless
 Dream big and dare to fail. Container Orchestration Zero Downtime Deployment Edge Computing Server Response Security Work hard in silence, let your success be your noise. React Happiness is not something ready made. It comes from your own actions. Logging
+Kubernetes Zero Downtime Deployment Algorithm Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Edge Computing Event Sourcing OAuth Containerization

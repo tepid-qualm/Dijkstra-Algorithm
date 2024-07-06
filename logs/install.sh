@@ -14,3 +14,4 @@ Database Indexing Don't be afraid to give up the good to go for the great. Scala
 Kubernetes Work hard in silence, let your success be your noise. Virtual Machines Sharding Cloud Functions Code Review CI/CD GraphQL OAuth Version Control Agile If you can dream it, you can do it. Scalability NLP
 DevOps Distributed Systems Performance Firewalls Server Response Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. The only way to do great work is to love what you do. A/B Testing Data Pipeline Agile Predictive Analytics JWT Monitoring
 Testing Event Sourcing Pull Request CI/CD JavaScript Agile OAuth
+A/B Testing The only way to do great work is to love what you do. Framework Artificial Intelligence Virtual Machines
