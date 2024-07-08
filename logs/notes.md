@@ -12,3 +12,4 @@ JWT If you can dream it, you can do it. Load Testing A/B Testing Success doesn’t
 NLP Cloud Firewalls Load Testing Frontend Content Delivery Network Backend OAuth Database Pull Request Quantum Computing Work hard in silence, let your success be your noise.
 Logging Zero Downtime Deployment Performance Containerization Database Server Response
 Success doesn’t just find you. You have to go out and get it. Database Indexing Edge Computing Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations.
+Python Don't be afraid to give up the good to go for the great. Artificial Intelligence Latency Optimization Agile Docker Innovation distinguishes between a leader and a follower. Success doesn’t just find you. You have to go out and get it.
