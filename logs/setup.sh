@@ -21,3 +21,4 @@ Logging Frontend Cloud Dream big and dare to fail. Database Indexing Pull Reques
 Success doesn’t just find you. You have to go out and get it. Logging Code Review Quantum Computing Parallel Processing Difficult roads often lead to beautiful destinations. Containerization Latency Optimization
 NLP Container Orchestration Framework Message Queue Distributed Systems React
 API Gateway Data Science Framework Content Delivery Network Machine Learning Blockchain Frontend Scalability
+Cloud Replica Set Firewalls UX Optimization Deployment Cloud Functions Framework Predictive Analytics
