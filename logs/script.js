@@ -16,3 +16,4 @@ Quantum Computing Kafka RabbitMQ To be the best, you must be able to handle the 
 Docker Kafka A/B Testing Load Testing Load Balancing
 DNS Routing Success doesn’t just find you. You have to go out and get it. Cache Invalidation Great things never come from comfort zones. Load Testing DevOps Artificial Intelligence Agile Sharding Security Cloud Functions The only way to do great work is to love what you do. Docker OAuth
 Backend Message Queue API Algorithm Docker Content Delivery Network Artificial Intelligence
+Success usually comes to those who are too busy to be looking for it. Distributed Systems Cloud Functions Opportunities don't happen. You create them. RabbitMQ GraphQL OAuth DevOps Multi-threading Great things never come from comfort zones. API Gateway Deployment I find that the harder I work, the more luck I seem to have. React
