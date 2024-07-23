@@ -20,3 +20,4 @@ Replica Set Distributed Systems Simplicity is the ultimate sophistication. Virtu
 Logging Frontend Cloud Dream big and dare to fail. Database Indexing Pull Request Multi-threading Firewalls Blockchain Parallel Processing Backend Optimization Data Science
 Success doesn’t just find you. You have to go out and get it. Logging Code Review Quantum Computing Parallel Processing Difficult roads often lead to beautiful destinations. Containerization Latency Optimization
 NLP Container Orchestration Framework Message Queue Distributed Systems React
+API Gateway Data Science Framework Content Delivery Network Machine Learning Blockchain Frontend Scalability
