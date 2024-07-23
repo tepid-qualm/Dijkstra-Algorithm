@@ -14,3 +14,4 @@ Success is how high you bounce when you hit bottom. Deployment Work hard in sile
 Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. Load Balancing WebSockets API Gateway Edge Computing Content Delivery Network Cloud Functions
 Quantum Computing Kafka RabbitMQ To be the best, you must be able to handle the worst. IoT Dream big and dare to fail. Simplicity is the ultimate sophistication. Security Database
 Docker Kafka A/B Testing Load Testing Load Balancing
+DNS Routing Success doesn’t just find you. You have to go out and get it. Cache Invalidation Great things never come from comfort zones. Load Testing DevOps Artificial Intelligence Agile Sharding Security Cloud Functions The only way to do great work is to love what you do. Docker OAuth
