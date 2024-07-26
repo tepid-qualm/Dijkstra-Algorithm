@@ -17,3 +17,4 @@ GraphQL Success is how high you bounce when you hit bottom. If you can dream it,
 Parallel Processing Code Review Do what you love and the money will follow. To be the best, you must be able to handle the worst. Kubernetes
 API Gateway Replica Set Optimization Python Firewalls Security Algorithm Data Pipeline Cache Invalidation
 Monitoring Data Pipeline JWT Content Delivery Network Event-driven Architecture Machine Learning
+Great things never come from comfort zones. Testing API Version Control Innovation distinguishes between a leader and a follower. Logging NLP
