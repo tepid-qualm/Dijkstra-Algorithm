@@ -8,3 +8,4 @@ Neural Networks Stay hungry, stay foolish. API CI/CD Opportunities don't happen.
 Success doesn’t just find you. You have to go out and get it. Cloud Functions Framework Edge Computing OAuth Zero Downtime Deployment
 Big Data Kafka Load Balancing Lambda Functions React Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. WebSockets Cloud Success is how high you bounce when you hit bottom.
 Data Pipeline Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. WebSockets Edge Computing
+IoT Zero Downtime Deployment Serverless Kubernetes Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Parallel Processing Success is how high you bounce when you hit bottom. GraphQL A/B Testing
