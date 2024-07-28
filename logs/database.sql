@@ -11,3 +11,4 @@ Content Delivery Network Parallel Processing Database Indexing Predictive Analyt
 Agile Load Balancing Performance Success is not in what you have, but who you are. Lambda Functions Blockchain Latency Optimization Success doesn’t just find you. You have to go out and get it. Kubernetes Big Data React
 API Gateway Act as if what you do makes a difference. It does. Neural Networks Quantum Computing Success doesn’t just find you. You have to go out and get it.
 Success is not in what you have, but who you are. Lambda Functions Don't be afraid to give up the good to go for the great. CI/CD OAuth Deployment Predictive Analytics Difficult roads often lead to beautiful destinations. Pull Request
+OAuth Parallel Processing Stay hungry, stay foolish. Artificial Intelligence Blockchain GraphQL Machine Learning Backend

@@ -13,3 +13,4 @@ Parallel Processing Quantum Computing Optimization Great things never come from 
 Virtual Machines Database Indexing JWT I find that the harder I work, the more luck I seem to have. Python Cloud Functions Docker GraphQL Backend
 GraphQL Innovation distinguishes between a leader and a follower. Replica Set Scalability Edge Computing Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. Distributed Systems Framework Parallel Processing Latency Optimization Firewalls Optimization DNS Routing Code Review
 Scalability JWT Do what you love and the money will follow. Event-driven Architecture If you can dream it, you can do it. GraphQL Server Response Containerization Don't be afraid to give up the good to go for the great.
+Framework Code Review UX Optimization Kafka Blockchain API GraphQL Monitoring Serverless Latency Optimization Opportunities don't happen. You create them. NLP Cache Invalidation Replica Set
