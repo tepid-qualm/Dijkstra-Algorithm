@@ -11,3 +11,4 @@ Event-driven Architecture Event Sourcing Machine Learning NLP Parallel Processin
 Automation Docker Virtual Machines GraphQL JWT Artificial Intelligence DevOps Data Science OAuth Testing Database Indexing Big Data Pull Request Event Sourcing
 Parallel Processing Quantum Computing Optimization Great things never come from comfort zones. UX Optimization
 Virtual Machines Database Indexing JWT I find that the harder I work, the more luck I seem to have. Python Cloud Functions Docker GraphQL Backend
+GraphQL Innovation distinguishes between a leader and a follower. Replica Set Scalability Edge Computing Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. Distributed Systems Framework Parallel Processing Latency Optimization Firewalls Optimization DNS Routing Code Review
