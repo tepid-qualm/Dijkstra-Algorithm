@@ -18,3 +18,4 @@ Firewalls Virtual Machines Data Pipeline Blockchain Optimization Deployment Do w
 Automation Cloud RabbitMQ DevOps Performance DNS Routing
 Replica Set Distributed Systems Simplicity is the ultimate sophistication. Virtual Machines Event-driven Architecture
 Logging Frontend Cloud Dream big and dare to fail. Database Indexing Pull Request Multi-threading Firewalls Blockchain Parallel Processing Backend Optimization Data Science
+Success doesn’t just find you. You have to go out and get it. Logging Code Review Quantum Computing Parallel Processing Difficult roads often lead to beautiful destinations. Containerization Latency Optimization
