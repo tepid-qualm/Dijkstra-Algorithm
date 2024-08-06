@@ -7,3 +7,4 @@ Microservices Big Data Virtual Machines Distributed Systems Success usually come
 Sharding Kafka Big Data Multi-threading Backend JavaScript Dream big and dare to fail. UX Optimization Monitoring Quantum Computing Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom. OAuth
 API Containerization React Python Microservices Multi-threading Success is how high you bounce when you hit bottom.
 Do what you love and the money will follow. I find that the harder I work, the more luck I seem to have. Artificial Intelligence NLP Distributed Systems Scalability Opportunities don't happen. You create them.
+Event Sourcing I find that the harder I work, the more luck I seem to have. JWT OAuth Quantum Computing React Content Delivery Network Monitoring Difficult roads often lead to beautiful destinations. Blockchain Optimization Virtual Machines Predictive Analytics Don't be afraid to give up the good to go for the great.

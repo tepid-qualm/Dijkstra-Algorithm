@@ -10,3 +10,4 @@ Agile Success doesn’t just find you. You have to go out and get it. Data Science
 Event-driven Architecture Event Sourcing Machine Learning NLP Parallel Processing Simplicity is the ultimate sophistication. Testing RabbitMQ Success usually comes to those who are too busy to be looking for it. Quantum Computing JWT Data Pipeline Cache Invalidation Sharding
 Automation Docker Virtual Machines GraphQL JWT Artificial Intelligence DevOps Data Science OAuth Testing Database Indexing Big Data Pull Request Event Sourcing
 Parallel Processing Quantum Computing Optimization Great things never come from comfort zones. UX Optimization
+Virtual Machines Database Indexing JWT I find that the harder I work, the more luck I seem to have. Python Cloud Functions Docker GraphQL Backend
