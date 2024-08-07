@@ -9,3 +9,4 @@ GraphQL IoT Quantum Computing WebSockets JWT OAuth NLP Simplicity is the ultimat
 Framework Zero Downtime Deployment API Simplicity is the ultimate sophistication. Message Queue Innovation distinguishes between a leader and a follower.
 Pull Request Frontend Act as if what you do makes a difference. It does. Testing Quantum Computing Data Pipeline Algorithm If you can dream it, you can do it. The only way to do great work is to love what you do. CI/CD Serverless Work hard in silence, let your success be your noise. Neural Networks Performance
 If you can dream it, you can do it. Logging Latency Optimization API Gateway Testing Kafka Parallel Processing UX Optimization Deployment Kubernetes Virtual Machines
+Lambda Functions JavaScript Artificial Intelligence API CI/CD Success is not in what you have, but who you are.

@@ -8,3 +8,4 @@ Lambda Functions Happiness is not something ready made. It comes from your own a
 Kubernetes Zero Downtime Deployment Work hard in silence, let your success be your noise. React Success is not in what you have, but who you are. Cloud Scalability Data Science Neural Networks Content Delivery Network Lambda Functions
 Cloud Functions Testing Load Testing Monitoring DNS Routing Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. Data Pipeline Event Sourcing JavaScript Framework Database Edge Computing Content Delivery Network Cache Invalidation
 Content Delivery Network Parallel Processing Database Indexing Predictive Analytics Event Sourcing Optimization
+Agile Load Balancing Performance Success is not in what you have, but who you are. Lambda Functions Blockchain Latency Optimization Success doesn’t just find you. You have to go out and get it. Kubernetes Big Data React
