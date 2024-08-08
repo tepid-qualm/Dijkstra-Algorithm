@@ -10,3 +10,4 @@ Latency Optimization Sharding Blockchain Agile NLP Virtual Machines WebSockets D
 Success is how high you bounce when you hit bottom. IoT Lambda Functions Message Queue Containerization DevOps Server Response Opportunities don't happen. You create them. Sharding
 Serverless API Gateway Database GraphQL CI/CD Virtual Machines Act as if what you do makes a difference. It does. Message Queue Success is not in what you have, but who you are. Content Delivery Network Backend Load Balancing Deployment Agile
 Do what you love and the money will follow. Testing CI/CD Latency Optimization Multi-threading NLP Success is how high you bounce when you hit bottom. The only way to do great work is to love what you do.
+Load Balancing Scalability Version Control GraphQL Machine Learning Microservices Simplicity is the ultimate sophistication.

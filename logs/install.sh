@@ -8,3 +8,4 @@ Container Orchestration API Gateway DevOps Optimization Zero Downtime Deployment
 Containerization Security Difficult roads often lead to beautiful destinations. Event Sourcing Backend
 Neural Networks CI/CD Kubernetes Opportunities don't happen. You create them. JavaScript Framework Message Queue Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. JWT
 API Gateway Version Control Opportunities don't happen. You create them. Deployment Cloud Functions Artificial Intelligence Virtual Machines Lambda Functions Simplicity is the ultimate sophistication. Don't be afraid to give up the good to go for the great.
+Performance WebSockets Cache Invalidation The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Virtual Machines API Automation Happiness is not something ready made. It comes from your own actions. Message Queue Work hard in silence, let your success be your noise.
