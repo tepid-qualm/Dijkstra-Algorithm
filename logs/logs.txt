@@ -10,3 +10,4 @@ Event-driven Architecture Backend Parallel Processing Difficult roads often lead
 Simplicity is the ultimate sophistication. Automation Blockchain Difficult roads often lead to beautiful destinations. Cache Invalidation Success doesn’t just find you. You have to go out and get it. Latency Optimization Replica Set Code Review Work hard in silence, let your success be your noise. Multi-threading
 Predictive Analytics Message Queue Logging Cache Invalidation Stay hungry, stay foolish. Great things never come from comfort zones. Automation Load Testing OAuth Edge Computing Event Sourcing Scalability
 Containerization Framework Agile Blockchain DevOps Container Orchestration Simplicity is the ultimate sophistication. Automation Cloud Algorithm Cache Invalidation
+Quantum Computing DNS Routing Blockchain Deployment Database Indexing Cache Invalidation Dream big and dare to fail. Act as if what you do makes a difference. It does. Kafka

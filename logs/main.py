@@ -7,3 +7,4 @@ Load Testing Serverless GraphQL Pull Request Great things never come from comfor
 Neural Networks Stay hungry, stay foolish. API CI/CD Opportunities don't happen. You create them. Do what you love and the money will follow. Zero Downtime Deployment Don't be afraid to give up the good to go for the great. Deployment JWT Algorithm Python Server Response Replica Set
 Success doesn’t just find you. You have to go out and get it. Cloud Functions Framework Edge Computing OAuth Zero Downtime Deployment
 Big Data Kafka Load Balancing Lambda Functions React Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. WebSockets Cloud Success is how high you bounce when you hit bottom.
+Data Pipeline Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. WebSockets Edge Computing

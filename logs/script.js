@@ -9,3 +9,4 @@ Scalability Happiness is not something ready made. It comes from your own action
 Content Delivery Network RabbitMQ React Deployment NLP Virtual Machines Sharding Security Load Balancing Replica Set Python Opportunities don't happen. You create them.
 Version Control Blockchain Simplicity is the ultimate sophistication. Event-driven Architecture JavaScript
 Do what you love and the money will follow. Event Sourcing Container Orchestration API Data Science
+Message Queue Artificial Intelligence The only way to do great work is to love what you do. Cloud Functions Zero Downtime Deployment To be the best, you must be able to handle the worst.

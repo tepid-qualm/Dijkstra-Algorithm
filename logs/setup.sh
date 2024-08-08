@@ -17,3 +17,4 @@ Message Queue API Gateway Success is not in what you have, but who you are. Secu
 Firewalls Virtual Machines Data Pipeline Blockchain Optimization Deployment Do what you love and the money will follow. WebSockets Stay hungry, stay foolish. Dream big and dare to fail.
 Automation Cloud RabbitMQ DevOps Performance DNS Routing
 Replica Set Distributed Systems Simplicity is the ultimate sophistication. Virtual Machines Event-driven Architecture
+Logging Frontend Cloud Dream big and dare to fail. Database Indexing Pull Request Multi-threading Firewalls Blockchain Parallel Processing Backend Optimization Data Science
