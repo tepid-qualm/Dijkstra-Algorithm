@@ -7,3 +7,4 @@ Don't be afraid to give up the good to go for the great. Containerization UX Opt
 Success doesn’t just find you. You have to go out and get it. JavaScript Cloud Code Review To be the best, you must be able to handle the worst.
 Scalability Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. OAuth Great things never come from comfort zones.
 Content Delivery Network RabbitMQ React Deployment NLP Virtual Machines Sharding Security Load Balancing Replica Set Python Opportunities don't happen. You create them.
+Version Control Blockchain Simplicity is the ultimate sophistication. Event-driven Architecture JavaScript
