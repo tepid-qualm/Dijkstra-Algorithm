@@ -8,3 +8,4 @@ Success doesn’t just find you. You have to go out and get it. JavaScript Cloud C
 Scalability Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. OAuth Great things never come from comfort zones.
 Content Delivery Network RabbitMQ React Deployment NLP Virtual Machines Sharding Security Load Balancing Replica Set Python Opportunities don't happen. You create them.
 Version Control Blockchain Simplicity is the ultimate sophistication. Event-driven Architecture JavaScript
+Do what you love and the money will follow. Event Sourcing Container Orchestration API Data Science
