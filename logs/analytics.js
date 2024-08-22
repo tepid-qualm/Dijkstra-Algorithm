@@ -5,3 +5,4 @@ Great things never come from comfort zones. CI/CD Distributed Systems UX Optimiz
 Container Orchestration Optimization Version Control The only way to do great work is to love what you do. Dream big and dare to fail. Innovation distinguishes between a leader and a follower.
 Success is how high you bounce when you hit bottom. Predictive Analytics Message Queue Quantum Computing Kafka
 DNS Routing Success is how high you bounce when you hit bottom. Containerization WebSockets Backend
+Monitoring Security To be the best, you must be able to handle the worst. Virtual Machines Zero Downtime Deployment GraphQL Testing Opportunities don't happen. You create them. NLP Cloud Functions Stay hungry, stay foolish. Message Queue Kubernetes React Framework
