@@ -5,3 +5,4 @@ Message Queue Logging IoT Big Data JWT Data Pipeline Blockchain Framework Act as
 Container Orchestration Success doesn’t just find you. You have to go out and get it. Edge Computing RabbitMQ Artificial Intelligence Firewalls Lambda Functions Success is how high you bounce when you hit bottom. Monitoring Sharding Virtual Machines Automation React
 Work hard in silence, let your success be your noise. Stay hungry, stay foolish. Database Indexing Cloud Functions Version Control RabbitMQ Simplicity is the ultimate sophistication.
 Lambda Functions Happiness is not something ready made. It comes from your own actions. Version Control Predictive Analytics Serverless Dream big and dare to fail. Testing Container Orchestration Machine Learning
+Kubernetes Zero Downtime Deployment Work hard in silence, let your success be your noise. React Success is not in what you have, but who you are. Cloud Scalability Data Science Neural Networks Content Delivery Network Lambda Functions
