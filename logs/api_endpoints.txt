@@ -11,3 +11,4 @@ Scalability Frontend CI/CD Quantum Computing Predictive Analytics Stay hungry, s
 Success usually comes to those who are too busy to be looking for it. Machine Learning Deployment Edge Computing If you can dream it, you can do it. Pull Request A/B Testing NLP Security Stay hungry, stay foolish. Event Sourcing Replica Set WebSockets Kubernetes Container Orchestration
 Edge Computing React Load Balancing Framework Replica Set Code Review Innovation distinguishes between a leader and a follower.
 IoT JavaScript Cloud Functions Python WebSockets
+React Work hard in silence, let your success be your noise. Docker JWT Don't be afraid to give up the good to go for the great. Multi-threading JavaScript OAuth Sharding Success is how high you bounce when you hit bottom. Version Control Quantum Computing Cloud Functions Success doesn’t just find you. You have to go out and get it.

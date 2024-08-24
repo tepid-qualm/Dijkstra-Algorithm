@@ -10,3 +10,4 @@ Scalability OAuth Don't be afraid to give up the good to go for the great. Secur
 Database Indexing Zero Downtime Deployment Predictive Analytics Work hard in silence, let your success be your noise. DNS Routing Server Response Success is not in what you have, but who you are. Machine Learning
 JWT If you can dream it, you can do it. Load Testing A/B Testing Success doesn’t just find you. You have to go out and get it. Backend
 NLP Cloud Firewalls Load Testing Frontend Content Delivery Network Backend OAuth Database Pull Request Quantum Computing Work hard in silence, let your success be your noise.
+Logging Zero Downtime Deployment Performance Containerization Database Server Response

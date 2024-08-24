@@ -16,3 +16,4 @@ Sharding To be the best, you must be able to handle the worst. JavaScript Parall
 Message Queue API Gateway Success is not in what you have, but who you are. Security Machine Learning Cache Invalidation Work hard in silence, let your success be your noise. Performance Cloud Functions Event-driven Architecture
 Firewalls Virtual Machines Data Pipeline Blockchain Optimization Deployment Do what you love and the money will follow. WebSockets Stay hungry, stay foolish. Dream big and dare to fail.
 Automation Cloud RabbitMQ DevOps Performance DNS Routing
+Replica Set Distributed Systems Simplicity is the ultimate sophistication. Virtual Machines Event-driven Architecture
