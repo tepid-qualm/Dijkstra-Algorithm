@@ -4,3 +4,4 @@ GraphQL Load Testing Innovation distinguishes between a leader and a follower. S
 Great things never come from comfort zones. CI/CD Distributed Systems UX Optimization DevOps Scalability Framework RabbitMQ Work hard in silence, let your success be your noise. React Machine Learning Microservices Opportunities don't happen. You create them.
 Container Orchestration Optimization Version Control The only way to do great work is to love what you do. Dream big and dare to fail. Innovation distinguishes between a leader and a follower.
 Success is how high you bounce when you hit bottom. Predictive Analytics Message Queue Quantum Computing Kafka
+DNS Routing Success is how high you bounce when you hit bottom. Containerization WebSockets Backend
