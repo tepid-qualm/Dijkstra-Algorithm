@@ -9,3 +9,4 @@ Deployment IoT Pull Request Event-driven Architecture JWT Database Load Testing 
 Message Queue Framework Frontend API Gateway Agile
 Framework Performance UX Optimization IoT DevOps Message Queue Great things never come from comfort zones. Scalability Don't be afraid to give up the good to go for the great. React Testing Difficult roads often lead to beautiful destinations. Kafka API Gateway
 Monitoring CI/CD JWT Load Balancing Difficult roads often lead to beautiful destinations. Server Response Kafka Success is how high you bounce when you hit bottom. Docker UX Optimization Lambda Functions Optimization Version Control A/B Testing
+Lambda Functions Artificial Intelligence Neural Networks Pull Request Distributed Systems JavaScript Scalability The only way to do great work is to love what you do. Logging Cloud Functions Framework Do what you love and the money will follow. Stay hungry, stay foolish. Blockchain

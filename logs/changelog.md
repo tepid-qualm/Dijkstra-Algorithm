@@ -5,3 +5,4 @@ Algorithm Kubernetes Message Queue React Distributed Systems UX Optimization Fra
 Scalability Simplicity is the ultimate sophistication. Big Data Success is how high you bounce when you hit bottom. Performance Neural Networks Testing Database Indexing Quantum Computing Edge Computing Blockchain
 Testing Cache Invalidation GraphQL Neural Networks DNS Routing
 Opportunities don't happen. You create them. Parallel Processing If you can dream it, you can do it. RabbitMQ Cloud Functions Latency Optimization Data Pipeline WebSockets
+CI/CD Framework Deployment Event Sourcing Do what you love and the money will follow. UX Optimization Cloud Kubernetes Version Control Python Load Testing Docker Quantum Computing Scalability If you can dream it, you can do it.
