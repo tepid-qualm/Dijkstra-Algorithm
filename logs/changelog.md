@@ -6,3 +6,4 @@ Scalability Simplicity is the ultimate sophistication. Big Data Success is how h
 Testing Cache Invalidation GraphQL Neural Networks DNS Routing
 Opportunities don't happen. You create them. Parallel Processing If you can dream it, you can do it. RabbitMQ Cloud Functions Latency Optimization Data Pipeline WebSockets
 CI/CD Framework Deployment Event Sourcing Do what you love and the money will follow. UX Optimization Cloud Kubernetes Version Control Python Load Testing Docker Quantum Computing Scalability If you can dream it, you can do it.
+Load Testing Frontend Quantum Computing Lambda Functions Dream big and dare to fail. Deployment To be the best, you must be able to handle the worst. Kubernetes UX Optimization Big Data Machine Learning Docker If you can dream it, you can do it. Load Balancing Distributed Systems
