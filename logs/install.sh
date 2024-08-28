@@ -7,3 +7,4 @@ Data Science CI/CD Multi-threading Agile WebSockets RabbitMQ Do what you love an
 Container Orchestration API Gateway DevOps Optimization Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it. WebSockets Multi-threading Firewalls Containerization Replica Set Machine Learning Logging
 Containerization Security Difficult roads often lead to beautiful destinations. Event Sourcing Backend
 Neural Networks CI/CD Kubernetes Opportunities don't happen. You create them. JavaScript Framework Message Queue Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. JWT
+API Gateway Version Control Opportunities don't happen. You create them. Deployment Cloud Functions Artificial Intelligence Virtual Machines Lambda Functions Simplicity is the ultimate sophistication. Don't be afraid to give up the good to go for the great.
