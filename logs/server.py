@@ -15,3 +15,4 @@ Multi-threading Automation Frontend Security Agile UX Optimization Database Succ
 DevOps Firewalls Database Virtual Machines Framework Docker
 GraphQL Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Work hard in silence, let your success be your noise. JavaScript Zero Downtime Deployment WebSockets React Great things never come from comfort zones. Backend
 Parallel Processing Code Review Do what you love and the money will follow. To be the best, you must be able to handle the worst. Kubernetes
+API Gateway Replica Set Optimization Python Firewalls Security Algorithm Data Pipeline Cache Invalidation
