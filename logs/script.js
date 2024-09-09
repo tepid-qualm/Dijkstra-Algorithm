@@ -5,3 +5,4 @@ Event-driven Architecture Frontend Testing Docker Data Pipeline Automation Conta
 Pull Request Do what you love and the money will follow. RabbitMQ Innovation distinguishes between a leader and a follower. Data Science JWT Load Balancing Artificial Intelligence Kubernetes Zero Downtime Deployment Load Testing
 Don't be afraid to give up the good to go for the great. Containerization UX Optimization Algorithm Event Sourcing
 Success doesn’t just find you. You have to go out and get it. JavaScript Cloud Code Review To be the best, you must be able to handle the worst.
+Scalability Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. OAuth Great things never come from comfort zones.
