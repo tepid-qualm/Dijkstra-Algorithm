@@ -6,3 +6,4 @@ NLP Edge Computing Monitoring Kubernetes JavaScript GraphQL
 Data Science CI/CD Multi-threading Agile WebSockets RabbitMQ Do what you love and the money will follow. Virtual Machines A/B Testing Pull Request Deployment JavaScript Success doesn’t just find you. You have to go out and get it. Kafka
 Container Orchestration API Gateway DevOps Optimization Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it. WebSockets Multi-threading Firewalls Containerization Replica Set Machine Learning Logging
 Containerization Security Difficult roads often lead to beautiful destinations. Event Sourcing Backend
+Neural Networks CI/CD Kubernetes Opportunities don't happen. You create them. JavaScript Framework Message Queue Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. JWT
