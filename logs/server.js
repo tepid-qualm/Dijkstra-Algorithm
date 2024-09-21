@@ -7,3 +7,4 @@ Latency Optimization Python NLP Deployment Automation Microservices Difficult ro
 CI/CD JWT Testing Cloud Functions Machine Learning Algorithm
 Deployment IoT Pull Request Event-driven Architecture JWT Database Load Testing React Success is not in what you have, but who you are.
 Message Queue Framework Frontend API Gateway Agile
+Framework Performance UX Optimization IoT DevOps Message Queue Great things never come from comfort zones. Scalability Don't be afraid to give up the good to go for the great. React Testing Difficult roads often lead to beautiful destinations. Kafka API Gateway
