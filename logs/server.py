@@ -13,3 +13,4 @@ UX Optimization Content Delivery Network Work hard in silence, let your success 
 Message Queue NLP Data Pipeline Success is not in what you have, but who you are. Security Sharding Data Science DevOps Load Balancing DNS Routing Act as if what you do makes a difference. It does.
 Multi-threading Automation Frontend Security Agile UX Optimization Database Success is not in what you have, but who you are. API Gateway Container Orchestration
 DevOps Firewalls Database Virtual Machines Framework Docker
+GraphQL Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Work hard in silence, let your success be your noise. JavaScript Zero Downtime Deployment WebSockets React Great things never come from comfort zones. Backend
