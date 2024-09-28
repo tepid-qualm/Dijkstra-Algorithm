@@ -12,3 +12,4 @@ Message Queue Framework Docker NLP JWT Kubernetes Version Control Edge Computing
 UX Optimization Content Delivery Network Work hard in silence, let your success be your noise. Sharding NLP Simplicity is the ultimate sophistication. Virtual Machines CI/CD
 Message Queue NLP Data Pipeline Success is not in what you have, but who you are. Security Sharding Data Science DevOps Load Balancing DNS Routing Act as if what you do makes a difference. It does.
 Multi-threading Automation Frontend Security Agile UX Optimization Database Success is not in what you have, but who you are. API Gateway Container Orchestration
+DevOps Firewalls Database Virtual Machines Framework Docker
