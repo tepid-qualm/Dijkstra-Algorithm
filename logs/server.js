@@ -6,3 +6,4 @@ Frontend CI/CD Docker Performance Virtual Machines Data Pipeline Success is how 
 Latency Optimization Python NLP Deployment Automation Microservices Difficult roads often lead to beautiful destinations. GraphQL
 CI/CD JWT Testing Cloud Functions Machine Learning Algorithm
 Deployment IoT Pull Request Event-driven Architecture JWT Database Load Testing React Success is not in what you have, but who you are.
+Message Queue Framework Frontend API Gateway Agile

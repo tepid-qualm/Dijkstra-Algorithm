@@ -5,3 +5,4 @@ Monitoring OAuth React JavaScript Great things never come from comfort zones. Op
 Firewalls API Gateway Code Review Predictive Analytics Server Response Message Queue
 Load Testing Serverless GraphQL Pull Request Great things never come from comfort zones. Data Pipeline Act as if what you do makes a difference. It does. I find that the harder I work, the more luck I seem to have.
 Neural Networks Stay hungry, stay foolish. API CI/CD Opportunities don't happen. You create them. Do what you love and the money will follow. Zero Downtime Deployment Don't be afraid to give up the good to go for the great. Deployment JWT Algorithm Python Server Response Replica Set
+Success doesn’t just find you. You have to go out and get it. Cloud Functions Framework Edge Computing OAuth Zero Downtime Deployment
