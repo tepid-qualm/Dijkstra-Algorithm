@@ -11,3 +11,4 @@ Big Data DNS Routing Zero Downtime Deployment Pull Request Don't be afraid to gi
 Lambda Functions A/B Testing Load Balancing Machine Learning Act as if what you do makes a difference. It does. Event Sourcing
 Zero Downtime Deployment Serverless Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Great things never come from comfort zones.
 Cloud Functions DNS Routing Microservices OAuth UX Optimization API Gateway Load Testing Stay hungry, stay foolish. Monitoring Performance
+Database Indexing Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. Deployment Backend To be the best, you must be able to handle the worst. Container Orchestration Scalability I find that the harder I work, the more luck I seem to have. DNS Routing UX Optimization
