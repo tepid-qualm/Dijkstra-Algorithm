@@ -3,3 +3,4 @@ DevOps Lambda Functions Opportunities don't happen. You create them. Security Ku
 Monitoring Great things never come from comfort zones. Sharding Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Automation To be the best, you must be able to handle the worst. Parallel Processing A/B Testing
 Event-driven Architecture Frontend Testing Docker Data Pipeline Automation Container Orchestration Replica Set WebSockets API Gateway Innovation distinguishes between a leader and a follower. JWT If you can dream it, you can do it. Framework
 Pull Request Do what you love and the money will follow. RabbitMQ Innovation distinguishes between a leader and a follower. Data Science JWT Load Balancing Artificial Intelligence Kubernetes Zero Downtime Deployment Load Testing
+Don't be afraid to give up the good to go for the great. Containerization UX Optimization Algorithm Event Sourcing
