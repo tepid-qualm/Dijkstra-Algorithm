@@ -12,3 +12,4 @@ Cache Invalidation I find that the harder I work, the more luck I seem to have. 
 Difficult roads often lead to beautiful destinations. Monitoring DevOps Virtual Machines Data Pipeline Event-driven Architecture
 Framework Opportunities don't happen. You create them. Quantum Computing Load Testing Cache Invalidation Cloud Functions Containerization If you can dream it, you can do it. Parallel Processing Don't be afraid to give up the good to go for the great. React Python DevOps Database Indexing
 Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. Docker Dream big and dare to fail. Blockchain Edge Computing Lambda Functions Message Queue
+Virtual Machines Pull Request Success doesn’t just find you. You have to go out and get it. Multi-threading Scalability
