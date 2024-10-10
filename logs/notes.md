@@ -6,3 +6,4 @@ Cloud Code Review Container Orchestration Distributed Systems IoT I find that th
 OAuth RabbitMQ Version Control Performance To be the best, you must be able to handle the worst. NLP Event Sourcing I find that the harder I work, the more luck I seem to have.
 Serverless Message Queue Backend Parallel Processing Happiness is not something ready made. It comes from your own actions. Frontend Database Indexing Load Testing Virtual Machines Algorithm Difficult roads often lead to beautiful destinations. Cloud Data Pipeline
 Message Queue Database Indexing Content Delivery Network Multi-threading Testing Container Orchestration WebSockets Cloud Edge Computing Zero Downtime Deployment Logging React Machine Learning
+Scalability OAuth Don't be afraid to give up the good to go for the great. Security IoT Performance Success doesn’t just find you. You have to go out and get it. Event Sourcing Opportunities don't happen. You create them. Pull Request
