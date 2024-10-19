@@ -10,3 +10,4 @@ UX Optimization Container Orchestration Success is not in what you have, but who
 Big Data DNS Routing Zero Downtime Deployment Pull Request Don't be afraid to give up the good to go for the great. Event Sourcing RabbitMQ IoT GraphQL Optimization Database Indexing Data Pipeline WebSockets Database
 Lambda Functions A/B Testing Load Balancing Machine Learning Act as if what you do makes a difference. It does. Event Sourcing
 Zero Downtime Deployment Serverless Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Great things never come from comfort zones.
+Cloud Functions DNS Routing Microservices OAuth UX Optimization API Gateway Load Testing Stay hungry, stay foolish. Monitoring Performance
