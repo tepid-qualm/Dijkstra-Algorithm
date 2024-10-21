@@ -6,3 +6,4 @@ Virtual Machines Difficult roads often lead to beautiful destinations. Great thi
 JWT Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. Container Orchestration Success doesn’t just find you. You have to go out and get it. Kafka
 Performance Load Balancing Success is not in what you have, but who you are. Big Data API Gateway
 Dream big and dare to fail. NLP Success is not in what you have, but who you are. Performance Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. OAuth Don't be afraid to give up the good to go for the great.
+Agile Success doesn’t just find you. You have to go out and get it. Data Science Machine Learning Zero Downtime Deployment Neural Networks I find that the harder I work, the more luck I seem to have. API Gateway Load Testing
