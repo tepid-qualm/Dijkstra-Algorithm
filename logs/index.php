@@ -5,3 +5,4 @@ Logging JWT JavaScript Latency Optimization Parallel Processing Framework If you
 Virtual Machines Difficult roads often lead to beautiful destinations. Great things never come from comfort zones. Security Framework UX Optimization Machine Learning IoT Lambda Functions Happiness is not something ready made. It comes from your own actions. Logging Docker React Pull Request Kubernetes
 JWT Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. Container Orchestration Success doesn’t just find you. You have to go out and get it. Kafka
 Performance Load Balancing Success is not in what you have, but who you are. Big Data API Gateway
+Dream big and dare to fail. NLP Success is not in what you have, but who you are. Performance Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. OAuth Don't be afraid to give up the good to go for the great.
