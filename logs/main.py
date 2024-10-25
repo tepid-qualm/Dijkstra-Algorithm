@@ -3,3 +3,4 @@ Simplicity is the ultimate sophistication. I find that the harder I work, the mo
 Edge Computing Load Testing Cache Invalidation Pull Request Optimization Zero Downtime Deployment Act as if what you do makes a difference. It does. Server Response WebSockets Opportunities don't happen. You create them. Virtual Machines Monitoring
 Monitoring OAuth React JavaScript Great things never come from comfort zones. Optimization Success is how high you bounce when you hit bottom. UX Optimization Artificial Intelligence Serverless Deployment
 Firewalls API Gateway Code Review Predictive Analytics Server Response Message Queue
+Load Testing Serverless GraphQL Pull Request Great things never come from comfort zones. Data Pipeline Act as if what you do makes a difference. It does. I find that the harder I work, the more luck I seem to have.
