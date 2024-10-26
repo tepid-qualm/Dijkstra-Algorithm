@@ -6,3 +6,4 @@ Scalability Database Indexing Security Data Science Sharding Cloud Functions Dre
 Content Delivery Network Dream big and dare to fail. Replica Set NLP Simplicity is the ultimate sophistication. Data Pipeline OAuth Containerization Kubernetes Logging To be the best, you must be able to handle the worst. Python Sharding
 Pull Request Server Response Database Indexing Predictive Analytics Framework To be the best, you must be able to handle the worst.
 UX Optimization Pull Request Distributed Systems Difficult roads often lead to beautiful destinations. Event Sourcing Parallel Processing
+Event-driven Architecture Backend Parallel Processing Difficult roads often lead to beautiful destinations. Serverless CI/CD Zero Downtime Deployment
