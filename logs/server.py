@@ -10,3 +10,4 @@ Frontend Success is how high you bounce when you hit bottom. Event-driven Archit
 API Work hard in silence, let your success be your noise. Blockchain JWT Event Sourcing Framework Microservices A/B Testing Firewalls Distributed Systems
 Message Queue Framework Docker NLP JWT Kubernetes Version Control Edge Computing Database Indexing
 UX Optimization Content Delivery Network Work hard in silence, let your success be your noise. Sharding NLP Simplicity is the ultimate sophistication. Virtual Machines CI/CD
+Message Queue NLP Data Pipeline Success is not in what you have, but who you are. Security Sharding Data Science DevOps Load Balancing DNS Routing Act as if what you do makes a difference. It does.
