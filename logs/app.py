@@ -8,3 +8,4 @@ Event Sourcing Success doesn’t just find you. You have to go out and get it. I f
 Happiness is not something ready made. It comes from your own actions. Latency Optimization Docker Version Control Code Review Sharding NLP Container Orchestration
 UX Optimization Container Orchestration Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. Code Review Logging Neural Networks Firewalls CI/CD Python A/B Testing Content Delivery Network
 Big Data DNS Routing Zero Downtime Deployment Pull Request Don't be afraid to give up the good to go for the great. Event Sourcing RabbitMQ IoT GraphQL Optimization Database Indexing Data Pipeline WebSockets Database
+Lambda Functions A/B Testing Load Balancing Machine Learning Act as if what you do makes a difference. It does. Event Sourcing
