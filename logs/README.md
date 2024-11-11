@@ -10,3 +10,4 @@ Multi-threading Sharding To be the best, you must be able to handle the worst. D
 Blockchain Multi-threading Version Control I find that the harder I work, the more luck I seem to have. Logging Serverless
 Cache Invalidation I find that the harder I work, the more luck I seem to have. Kafka Security Cloud Functions Docker Success doesn’t just find you. You have to go out and get it. Microservices Agile Quantum Computing Great things never come from comfort zones. RabbitMQ Containerization
 Difficult roads often lead to beautiful destinations. Monitoring DevOps Virtual Machines Data Pipeline Event-driven Architecture
+Framework Opportunities don't happen. You create them. Quantum Computing Load Testing Cache Invalidation Cloud Functions Containerization If you can dream it, you can do it. Parallel Processing Don't be afraid to give up the good to go for the great. React Python DevOps Database Indexing

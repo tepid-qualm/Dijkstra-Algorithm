@@ -9,3 +9,4 @@ Agile Difficult roads often lead to beautiful destinations. The only way to do g
 Microservices Algorithm Backend A/B Testing Multi-threading
 CI/CD Difficult roads often lead to beautiful destinations. Automation Replica Set Data Pipeline Lambda Functions Logging Happiness is not something ready made. It comes from your own actions. Cache Invalidation Message Queue UX Optimization Database Work hard in silence, let your success be your noise. Security Version Control
 Server Response UX Optimization GraphQL Kafka I find that the harder I work, the more luck I seem to have. Containerization Stay hungry, stay foolish. Load Balancing Database Indexing Serverless Algorithm If you can dream it, you can do it.
+Latency Optimization Zero Downtime Deployment Framework Logging Frontend Database Indexing
