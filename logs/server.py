@@ -9,3 +9,4 @@ Kubernetes Version Control Simplicity is the ultimate sophistication. API Gatewa
 Frontend Success is how high you bounce when you hit bottom. Event-driven Architecture If you can dream it, you can do it. CI/CD Cloud Functions RabbitMQ Logging
 API Work hard in silence, let your success be your noise. Blockchain JWT Event Sourcing Framework Microservices A/B Testing Firewalls Distributed Systems
 Message Queue Framework Docker NLP JWT Kubernetes Version Control Edge Computing Database Indexing
+UX Optimization Content Delivery Network Work hard in silence, let your success be your noise. Sharding NLP Simplicity is the ultimate sophistication. Virtual Machines CI/CD

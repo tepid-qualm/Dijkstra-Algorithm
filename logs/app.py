@@ -7,3 +7,4 @@ Database Indexing Stay hungry, stay foolish. Blockchain To be the best, you must
 Event Sourcing Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. Frontend API
 Happiness is not something ready made. It comes from your own actions. Latency Optimization Docker Version Control Code Review Sharding NLP Container Orchestration
 UX Optimization Container Orchestration Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. Code Review Logging Neural Networks Firewalls CI/CD Python A/B Testing Content Delivery Network
+Big Data DNS Routing Zero Downtime Deployment Pull Request Don't be afraid to give up the good to go for the great. Event Sourcing RabbitMQ IoT GraphQL Optimization Database Indexing Data Pipeline WebSockets Database
