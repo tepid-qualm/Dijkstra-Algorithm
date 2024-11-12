@@ -8,3 +8,4 @@ Data Science Opportunities don't happen. You create them. Microservices Algorith
 Kubernetes Version Control Simplicity is the ultimate sophistication. API Gateway Pull Request
 Frontend Success is how high you bounce when you hit bottom. Event-driven Architecture If you can dream it, you can do it. CI/CD Cloud Functions RabbitMQ Logging
 API Work hard in silence, let your success be your noise. Blockchain JWT Event Sourcing Framework Microservices A/B Testing Firewalls Distributed Systems
+Message Queue Framework Docker NLP JWT Kubernetes Version Control Edge Computing Database Indexing
