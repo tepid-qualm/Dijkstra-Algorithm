@@ -7,3 +7,4 @@ Firewalls DNS Routing Innovation distinguishes between a leader and a follower. 
 Data Science Opportunities don't happen. You create them. Microservices Algorithm CI/CD Scalability RabbitMQ Edge Computing Artificial Intelligence DevOps Security Serverless
 Kubernetes Version Control Simplicity is the ultimate sophistication. API Gateway Pull Request
 Frontend Success is how high you bounce when you hit bottom. Event-driven Architecture If you can dream it, you can do it. CI/CD Cloud Functions RabbitMQ Logging
+API Work hard in silence, let your success be your noise. Blockchain JWT Event Sourcing Framework Microservices A/B Testing Firewalls Distributed Systems
