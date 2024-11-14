@@ -3,3 +3,4 @@ Dream big and dare to fail. Framework Content Delivery Network Kafka Algorithm C
 Cloud IoT Do what you love and the money will follow. Logging Version Control
 DevOps Predictive Analytics API Gateway Version Control Monitoring NLP
 Machine Learning Parallel Processing API Gateway Latency Optimization Do what you love and the money will follow. Predictive Analytics Neural Networks Great things never come from comfort zones. Cloud Functions A/B Testing UX Optimization Cloud Cache Invalidation Distributed Systems Success is not in what you have, but who you are.
+API GraphQL JavaScript IoT NLP DNS Routing Logging
