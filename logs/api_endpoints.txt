@@ -7,3 +7,4 @@ Serverless OAuth Great things never come from comfort zones. Python Data Pipelin
 Scalability Agile Framework DevOps Distributed Systems Work hard in silence, let your success be your noise. Automation Deployment
 Database Blockchain JWT Success is not in what you have, but who you are. Opportunities don't happen. You create them. Lambda Functions
 Do what you love and the money will follow. IoT Server Response Innovation distinguishes between a leader and a follower. Replica Set CI/CD Database Indexing Kubernetes Performance
+Scalability Frontend CI/CD Quantum Computing Predictive Analytics Stay hungry, stay foolish.
