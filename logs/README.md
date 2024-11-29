@@ -7,3 +7,4 @@ Success is not in what you have, but who you are. Happiness is not something rea
 I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. Performance Predictive Analytics Scalability CI/CD Version Control Event Sourcing Load Balancing API Gateway Event-driven Architecture
 Python Agile Optimization Virtual Machines Deployment A/B Testing
 Multi-threading Sharding To be the best, you must be able to handle the worst. Database Innovation distinguishes between a leader and a follower. CI/CD Kafka Work hard in silence, let your success be your noise. React Do what you love and the money will follow.
+Blockchain Multi-threading Version Control I find that the harder I work, the more luck I seem to have. Logging Serverless
