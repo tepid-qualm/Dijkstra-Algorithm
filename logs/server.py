@@ -5,3 +5,4 @@ Distributed Systems Monitoring Containerization Server Response Container Orches
 Quantum Computing Algorithm Database Indexing Parallel Processing Multi-threading Lambda Functions Docker Python UX Optimization If you can dream it, you can do it. Distributed Systems Logging To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower.
 Firewalls DNS Routing Innovation distinguishes between a leader and a follower. Scalability Zero Downtime Deployment Work hard in silence, let your success be your noise. IoT GraphQL Data Science Cloud Functions React The only way to do great work is to love what you do. Framework
 Data Science Opportunities don't happen. You create them. Microservices Algorithm CI/CD Scalability RabbitMQ Edge Computing Artificial Intelligence DevOps Security Serverless
+Kubernetes Version Control Simplicity is the ultimate sophistication. API Gateway Pull Request
