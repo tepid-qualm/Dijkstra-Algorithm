@@ -4,3 +4,4 @@ UX Optimization Opportunities don't happen. You create them. Great things never 
 Load Balancing Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment Microservices Message Queue Cloud Functions Kubernetes Code Review NLP Logging A/B Testing Sharding
 Scalability Database Indexing Security Data Science Sharding Cloud Functions Dream big and dare to fail.
 Content Delivery Network Dream big and dare to fail. Replica Set NLP Simplicity is the ultimate sophistication. Data Pipeline OAuth Containerization Kubernetes Logging To be the best, you must be able to handle the worst. Python Sharding
+Pull Request Server Response Database Indexing Predictive Analytics Framework To be the best, you must be able to handle the worst.
