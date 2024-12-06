@@ -3,3 +3,4 @@ Automation Serverless Content Delivery Network Pull Request NLP Firewalls Do wha
 I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations. Serverless Performance Dream big and dare to fail. Opportunities don't happen. You create them. Firewalls
 Database Indexing Cloud Functions Dream big and dare to fail. Algorithm Don't be afraid to give up the good to go for the great. Version Control Database
 NLP Edge Computing Monitoring Kubernetes JavaScript GraphQL
+Data Science CI/CD Multi-threading Agile WebSockets RabbitMQ Do what you love and the money will follow. Virtual Machines A/B Testing Pull Request Deployment JavaScript Success doesn’t just find you. You have to go out and get it. Kafka

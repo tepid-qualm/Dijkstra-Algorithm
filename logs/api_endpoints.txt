@@ -5,3 +5,4 @@ Content Delivery Network Multi-threading Kafka Virtual Machines Logging Server R
 Deployment Framework Zero Downtime Deployment Message Queue Database Cloud Functions Predictive Analytics
 Serverless OAuth Great things never come from comfort zones. Python Data Pipeline Success is how high you bounce when you hit bottom. Event Sourcing
 Scalability Agile Framework DevOps Distributed Systems Work hard in silence, let your success be your noise. Automation Deployment
+Database Blockchain JWT Success is not in what you have, but who you are. Opportunities don't happen. You create them. Lambda Functions
