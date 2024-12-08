@@ -2,3 +2,4 @@ Machine Learning CI/CD Message Queue Deployment DevOps Backend Innovation distin
 Automation Serverless Content Delivery Network Pull Request NLP Firewalls Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Optimization Code Review Deployment
 I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations. Serverless Performance Dream big and dare to fail. Opportunities don't happen. You create them. Firewalls
 Database Indexing Cloud Functions Dream big and dare to fail. Algorithm Don't be afraid to give up the good to go for the great. Version Control Database
+NLP Edge Computing Monitoring Kubernetes JavaScript GraphQL
