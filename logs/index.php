@@ -1,3 +1,4 @@
 Simplicity is the ultimate sophistication. Serverless Success is how high you bounce when you hit bottom. Server Response Kafka
 Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Server Response Load Balancing Deployment Kafka Load Testing Data Pipeline Pull Request WebSockets OAuth Quantum Computing Artificial Intelligence API Version Control
 Latency Optimization Work hard in silence, let your success be your noise. Load Balancing Cloud Innovation distinguishes between a leader and a follower. Data Pipeline Success doesn’t just find you. You have to go out and get it.
+Logging JWT JavaScript Latency Optimization Parallel Processing Framework If you can dream it, you can do it. Frontend Containerization Distributed Systems Success is not in what you have, but who you are. Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Cloud Functions Blockchain
