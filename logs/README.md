@@ -5,3 +5,4 @@ WebSockets Pull Request NLP Backend Opportunities don't happen. You create them.
 Containerization DNS Routing Success is not in what you have, but who you are. Load Balancing Cloud Lambda Functions Serverless Artificial Intelligence Opportunities don't happen. You create them.
 Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions. JavaScript GraphQL Neural Networks If you can dream it, you can do it. Distributed Systems Frontend Sharding Big Data Database Act as if what you do makes a difference. It does. Difficult roads often lead to beautiful destinations. Logging
 I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. Performance Predictive Analytics Scalability CI/CD Version Control Event Sourcing Load Balancing API Gateway Event-driven Architecture
+Python Agile Optimization Virtual Machines Deployment A/B Testing
