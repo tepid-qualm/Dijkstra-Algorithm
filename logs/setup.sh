@@ -1,0 +1,1 @@
+Microservices CI/CD Work hard in silence, let your success be your noise. Database Success is not in what you have, but who you are. Cloud Functions Neural Networks Monitoring Python Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it. Testing Optimization
