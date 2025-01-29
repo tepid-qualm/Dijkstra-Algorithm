@@ -3,3 +3,4 @@ Dream big and dare to fail. Stay hungry, stay foolish. Latency Optimization Pred
 Do what you love and the money will follow. Simplicity is the ultimate sophistication. Python Kubernetes Innovation distinguishes between a leader and a follower. Event-driven Architecture Version Control
 Content Delivery Network Multi-threading Kafka Virtual Machines Logging Server Response Database Indexing Monitoring Algorithm API Gateway The only way to do great work is to love what you do. DevOps Performance Edge Computing DNS Routing
 Deployment Framework Zero Downtime Deployment Message Queue Database Cloud Functions Predictive Analytics
+Serverless OAuth Great things never come from comfort zones. Python Data Pipeline Success is how high you bounce when you hit bottom. Event Sourcing
