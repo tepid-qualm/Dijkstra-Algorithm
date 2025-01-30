@@ -1,1 +1,2 @@
 Microservices Do what you love and the money will follow. Framework Predictive Analytics Database Indexing Quantum Computing Dream big and dare to fail. Load Balancing Monitoring API Gateway Code Review
+Success is how high you bounce when you hit bottom. Big Data Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. DNS Routing Virtual Machines Testing Work hard in silence, let your success be your noise. Multi-threading Machine Learning Optimization Containerization Load Balancing Load Testing Automation
