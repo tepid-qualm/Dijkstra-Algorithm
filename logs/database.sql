@@ -1,1 +1,2 @@
 Framework Data Pipeline API Gateway GraphQL Deployment Optimization Virtual Machines Monitoring Success doesn’t just find you. You have to go out and get it. Automation Logging JavaScript Predictive Analytics Server Response Distributed Systems
+Security Opportunities don't happen. You create them. Data Pipeline Latency Optimization Success is not in what you have, but who you are. Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Sharding Don't be afraid to give up the good to go for the great. Agile Containerization Edge Computing
