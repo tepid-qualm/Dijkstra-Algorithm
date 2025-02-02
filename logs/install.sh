@@ -1,1 +1,2 @@
 Machine Learning CI/CD Message Queue Deployment DevOps Backend Innovation distinguishes between a leader and a follower. Data Pipeline Performance Version Control Parallel Processing Automation Great things never come from comfort zones.
+Automation Serverless Content Delivery Network Pull Request NLP Firewalls Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Optimization Code Review Deployment
